@@ -38,4 +38,3 @@ with open('DECODE.csv','r') as file:
 		# except Exception as e:
 		# 	print (e)
 		# print('End of file')
-		
